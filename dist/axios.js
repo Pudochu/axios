@@ -117,7 +117,6 @@ module.exports = __webpack_require__(/*! ./lib/axios */ "./lib/axios.js");
 
 "use strict";
 
-
 var utils = __webpack_require__(/*! ./../utils */ "./lib/utils.js");
 var settle = __webpack_require__(/*! ./../core/settle */ "./lib/core/settle.js");
 var cookies = __webpack_require__(/*! ./../helpers/cookies */ "./lib/helpers/cookies.js");
